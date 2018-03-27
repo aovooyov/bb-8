@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "declaration": false,
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "types": [
+            "node"
+        ]
+    },
+    "exclude": [],
+    "typeRoots": [
+        "node_modules/@types"
+    ]
+}

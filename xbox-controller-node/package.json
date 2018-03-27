@@ -1,0 +1,33 @@
+{
+  "name": "xbox-controller-node",
+  "version": "1.6.0",
+  "description": "Simple interface to Xbox controller using Node.js",
+  "main": "./lib/xbox-controller.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "joystick": "^0.1.2",
+    "node-hid": "^0.4.0",
+    "socket.io": "^2.0.4"
+  },
+  "scripts": {
+    "test": "node lib/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mapaiva/xbox-controller-node.git"
+  },
+  "keywords": [
+    "xbox",
+    "controller",
+    "node"
+  ],
+  "author": {
+    "name": "Matheus Paiva",
+    "email": "matheus.a.paiva@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapaiva/xbox-controller-node/issues"
+  },
+  "homepage": "https://github.com/mapaiva/xbox-controller-node"
+}

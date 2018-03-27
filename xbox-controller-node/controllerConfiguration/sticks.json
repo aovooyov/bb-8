@@ -1,0 +1,33 @@
+{
+  "leftStickCoordinates": {
+    "x": 2,
+    "y": 4,
+    "axisX": 3,
+    "axisY": 5
+  },
+
+  "rightStickCoordinates": {
+    "x": 6,
+    "y": 7,
+
+    "axisX": 5,
+    "axisY": 8
+  },
+  
+  "leftTriggerCoordinates": {
+    "x": 9,
+    "axisX": 10
+  },
+
+  "rightTriggerCoordinates": {
+    "x": 11,
+    "axisX": 12
+  },
+  
+  "crossCoordinates": {
+    "x": 0,
+    "y": 2,
+    "axisX": 6,
+    "axisY": 7
+  }
+}

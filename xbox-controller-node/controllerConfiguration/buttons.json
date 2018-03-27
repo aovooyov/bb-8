@@ -1,0 +1,45 @@
+{
+  "directionalButtons": {
+    "leftstickpress": 20,
+    "rightstickpress": 40,
+
+    "up": 1,
+    "down": 5,
+    "left": 7,
+    "right": 3,
+
+    "upright": 2,
+    "upleft": 8,
+    "downright": 4,
+    "downleft": 6
+  },
+
+  "controlButtons": {
+    "a": 1,
+    "b": 2,
+    "y": 16,
+    "x": 8,
+    "rb": 128,
+    "lb": 64,
+    "start": 98,
+    "back": 91
+  },
+
+  "linuxAdapter": {
+    "a": 0,
+    "b": 1,
+    "x": 4,
+    "y": 16,
+    "lb": 4,
+    "rb": 5,
+    "back": 6,
+    "start": 7,
+    "xboxButton": 8,
+    "leftstickpress": 9,
+    "rightstickpress": 10,
+    "left": 11,
+    "right": 12,
+    "up": 13,
+    "down": 14
+  }
+}
