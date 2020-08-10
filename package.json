@@ -23,7 +23,7 @@
     "movehub": "0.3.2",
     "draftlog": "1.0.12",
     "chalk": "2.3.0",
-    "node-hid": "^0.4.0"        
+    "node-hid": "^0.4.0"
   },
   "devDependencies": {
     "@types/node": "8.0.33",

@@ -28,6 +28,9 @@ const hid = require('node-hid');
 const devices = hid.devices();
 const device = devices.find((d) => {
     var product = (typeof d === 'object' && d.product) || '';
+
+    console.log(product);
+
     return product.indexOf('Xbox Wireless') !== -1;
 });
 
